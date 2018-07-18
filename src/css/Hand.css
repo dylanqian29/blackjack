@@ -1,0 +1,63 @@
+.Hand {
+  display: flex;
+  margin: 60px auto;
+  padding-top: 0;
+  padding-left: 0;
+  height: 300px;
+  width: 800px;
+  align-items: center;
+  position: relative;
+}
+
+.Hand .Card0 {
+  -webkit-transform: rotate(-40deg);
+  -moz-transform: rotate(-40deg);
+  z-index: 1;
+  left: 30%;
+  top: -27px;
+  position: relative;
+}
+.Hand .Card1 {
+  -webkit-transform: rotate(-25deg);
+  -moz-transform: rotate(-25deg);
+  z-index: 2;
+  left: 10%;
+  top: -27px;
+  position: relative;
+}
+
+.Hand .Card2 {
+  -webkit-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+  z-index: 3;
+  left: -10%;
+  top: -15px;
+  position: relative;
+}
+
+.Hand .Card3 {
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  z-index: 4;
+  left: -30%;
+  top: 9px;
+  position: relative;
+}
+
+.Hand .Card4 {
+  -webkit-transform: rotate(20deg);
+  -moz-transform: rotate(20deg);
+  z-index: 5;
+  left: -51%;
+  top: 33px;
+  position: relative;
+}
+
+.Hand .Card5 {
+  -webkit-transform: rotate(35deg);
+  -moz-transform: rotate(35deg);
+  z-index: 6;
+  left: -73%;
+  top: 73px;
+  position: relative;
+}

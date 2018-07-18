@@ -1,0 +1,15 @@
+.Dealer {
+  display: flex;
+  margin: 60px auto;
+  padding-top: 0;
+  padding-left: 0;
+  height: 300px;
+  width: 800px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.Dealer .card {
+  margin: 10px;
+}
