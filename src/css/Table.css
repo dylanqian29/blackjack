@@ -4,11 +4,12 @@
     bottom center;
   background-size: cover;
   width: 100%;
-  height: 100vh;
+  height: 120vh;
   position: absolute; /* Stay in place */
 }
 
 .circle-button {
+  margin-top:20px;
   width: 80px;
   height: 80px;
   line-height: 50px;
